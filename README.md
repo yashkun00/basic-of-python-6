@@ -1,3 +1,2 @@
-# tpp.ruff
+Day 6
 
-target to find the stream that can give me job after graduation
